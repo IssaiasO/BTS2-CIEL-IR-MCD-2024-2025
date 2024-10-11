@@ -160,7 +160,7 @@
             <mxRectangle width="30" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2vfGxUgiHe08znNfUqJ-25" value="ID_Porte " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=1;" vertex="1" parent="s2vfGxUgiHe08znNfUqJ-23">
+        <mxCell id="s2vfGxUgiHe08znNfUqJ-25" value="ID_Portee " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=1;" vertex="1" parent="s2vfGxUgiHe08znNfUqJ-23">
           <mxGeometry x="30" width="260" height="40" as="geometry">
             <mxRectangle width="260" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -173,7 +173,7 @@
             <mxRectangle width="30" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2vfGxUgiHe08znNfUqJ-28" value="Nom_Porte&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="s2vfGxUgiHe08znNfUqJ-26">
+        <mxCell id="s2vfGxUgiHe08znNfUqJ-28" value="Nom_Portee&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="s2vfGxUgiHe08znNfUqJ-26">
           <mxGeometry x="30" width="260" height="40" as="geometry">
             <mxRectangle width="260" height="40" as="alternateBounds" />
           </mxGeometry>
