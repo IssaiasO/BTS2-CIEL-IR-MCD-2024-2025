@@ -16,11 +16,11 @@ espece, région, genre, rôle, type de portée, Difficulté, Date de sortie
 
 4. Définition des attributs pour les entités secondaires
 Pour chaque entité secondaire que vous avez identifiée, quelles informations sont nécessaires pour la décrire ?
-L'Identifiant unique, nom et  Description.
+Son Nom.
 
 5. Établissement des relations
 Quelles sont les connexions logiques entre l'entité principale (champion) et les entités secondaires ?
-Un Champion "possède" une ou plusieurs Abilités.
+Un Champion "possède" une ou plusieurs rôle.
 
 Comment exprimeriez-vous ces connexions en termes de relations dans un MCD ?
 Pour exprimer les connexions entre les entités on utilsera des clés étrangères.
